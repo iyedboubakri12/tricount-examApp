@@ -1,7 +1,7 @@
 # Tricount
 
 ## A. Author
-**Name:** Zied Bousnina
+**Name:** iyed boubakri
 **Matricola:** 344807
 
 ## B. Project
